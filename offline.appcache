@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1544086286
+#1544095261
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -33,6 +33,7 @@ images/effect_hit-sheet0.png
 images/effect_hit-sheet1.png
 images/effect_running-sheet0.png
 images/playershieldattack-sheet0.png
+images/playershieldattack-sheet1.png
 images/effect_parry-sheet0.png
 images/effect_parry-sheet1.png
 images/effect_hitsparkphys-sheet0.png
