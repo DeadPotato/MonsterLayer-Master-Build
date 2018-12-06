@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1544079482
+#1544085446
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -18,8 +18,8 @@ images/playercharacter-sheet1.png
 images/playercharacter-sheet2.png
 images/groundsprite-sheet0.png
 images/groundsprite-sheet1.png
-images/monster_slime-sheet0.png
-images/monster_slime-sheet1.png
+images/monster_slime_green-sheet0.png
+images/monster_slime_green-sheet1.png
 images/gameplayui_timingbar-sheet0.png
 images/loot_coin-sheet0.png
 images/loot_coin-sheet1.png
@@ -43,13 +43,16 @@ images/effect_gamemodetextflyby-sheet0.png
 images/effect_gamemodetextflyby-sheet1.png
 images/effect_gamemodetextflyby-sheet2.png
 images/ui_chasetimerwindow-sheet0.png
-images/monsterescapeexit-sheet0.png
+images/monsterspawner-sheet0.png
 images/effect_miss-sheet0.png
 images/effect_dash-sheet0.png
 images/effect_dash-sheet1.png
 images/coindrop-sheet0.png
 images/effect_coinget-sheet0.png
 images/effect_coinget-sheet1.png
+images/monster_slime_purple-sheet0.png
+images/monster_slime_purple-sheet1.png
+images/monster_slime_purple-sheet2.png
 media/shield.ogg
 media/swordwoosh.ogg
 media/damage1.ogg
