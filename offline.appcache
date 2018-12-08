@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1544198948
+#1544281548
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -39,8 +39,6 @@ images/backgroundsprite-sheet0.png
 images/ui_gamewindow-sheet0.png
 images/gamemodetextflyby.png
 images/effect_gamemodetextflyby-sheet0.png
-images/effect_gamemodetextflyby-sheet1.png
-images/effect_gamemodetextflyby-sheet2.png
 images/ui_chasetimerwindow-sheet0.png
 images/monsterspawner-sheet0.png
 images/effect_miss-sheet0.png
@@ -60,6 +58,8 @@ images/laymode_timingbar-sheet1.png
 images/laymode_timingbareffect-sheet0.png
 images/laymode_timingbareffect-sheet1.png
 images/laymode_effect_smack-sheet0.png
+images/effect_gj-sheet0.png
+images/laymode_effect_goon-sheet0.png
 media/shield.ogg
 media/swordwoosh.ogg
 media/damage1.ogg
@@ -72,6 +72,8 @@ media/coin1.ogg
 media/coin2.ogg
 media/coin3.ogg
 media/smack.ogg
+media/finish1.ogg
+media/lay1.ogg
 icon-16.png
 icon-32.png
 icon-114.png
