@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1544281548
+#1544359146
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -15,8 +15,6 @@ images/ui_buttontransition-sheet1.png
 images/ui_buttontransition-sheet2.png
 images/ui_hpbars-sheet0.png
 images/playercharacter-sheet0.png
-images/playercharacter-sheet1.png
-images/playercharacter-sheet2.png
 images/groundsprite-sheet0.png
 images/groundsprite-sheet1.png
 images/monster_slime_green-sheet0.png
@@ -28,6 +26,7 @@ images/playerswordattack-sheet2.png
 images/ui_button2-sheet0.png
 images/ui_button2-sheet1.png
 images/ui_button3-sheet0.png
+images/ui_button3-sheet1.png
 images/effect_hit-sheet0.png
 images/effect_running-sheet0.png
 images/playershieldattack-sheet0.png
@@ -46,20 +45,16 @@ images/laymode_effect_chupa-sheet0.png
 images/coindrop-sheet0.png
 images/effect_coinget-sheet0.png
 images/effect_coinget-sheet1.png
-images/monster_slime_purple-sheet0.png
-images/monster_slime_purple-sheet1.png
 images/laymode_playerpleasure-sheet0.png
 images/laymode_playerpleasure-sheet1.png
 images/laymode_monsterpleasure-sheet0.png
 images/laymode_monsterpleasure-sheet1.png
 images/laymode_effect_shlick-sheet0.png
-images/laymode_timingbar-sheet0.png
-images/laymode_timingbar-sheet1.png
-images/laymode_timingbareffect-sheet0.png
-images/laymode_timingbareffect-sheet1.png
 images/laymode_effect_smack-sheet0.png
 images/effect_gj-sheet0.png
 images/laymode_effect_goon-sheet0.png
+images/deadpotatogamessolo-sheet0.png
+images/itemframe-sheet0.png
 media/shield.ogg
 media/swordwoosh.ogg
 media/damage1.ogg
@@ -74,6 +69,13 @@ media/coin3.ogg
 media/smack.ogg
 media/finish1.ogg
 media/lay1.ogg
+media/gjsound.ogg
+media/applause1.ogg
+media/applause2.ogg
+media/disappointment.ogg
+media/8bit%20dungeon%20level.ogg
+media/8bit%20dungeon%20boss.ogg
+media/aces%20high.ogg
 icon-16.png
 icon-32.png
 icon-114.png
