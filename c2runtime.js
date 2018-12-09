@@ -27388,17 +27388,17 @@ cr.behaviors.scrollto = function(runtime)
 	behaviorProto.acts = new Acts();
 }());
 cr.getObjectRefTable = function () { return [
-	cr.plugins_.Audio,
-	cr.plugins_.Browser,
-	cr.plugins_.gamepad,
-	cr.plugins_.Function,
-	cr.plugins_.WebStorage,
-	cr.plugins_.Spritefont2,
-	cr.plugins_.Touch,
+	cr.plugins_.progressbar,
 	cr.plugins_.Keyboard,
+	cr.plugins_.Touch,
 	cr.plugins_.Mouse,
 	cr.plugins_.Sprite,
-	cr.plugins_.progressbar,
+	cr.plugins_.Spritefont2,
+	cr.plugins_.WebStorage,
+	cr.plugins_.Audio,
+	cr.plugins_.Browser,
+	cr.plugins_.Function,
+	cr.plugins_.gamepad,
 	cr.behaviors.Fade,
 	cr.behaviors.destroy,
 	cr.behaviors.bound,
@@ -27476,6 +27476,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Keyboard.prototype.cnds.OnKey,
 	cr.plugins_.Keyboard.prototype.cnds.OnKeyReleased,
 	cr.plugins_.Touch.prototype.cnds.OnTapGestureObject,
+	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
 	cr.plugins_.Touch.prototype.cnds.IsTouchingObject,
 	cr.plugins_.Keyboard.prototype.cnds.IsKeyDown,
 	cr.plugins_.Spritefont2.prototype.acts.SetVisible,
@@ -27488,6 +27489,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Audio.prototype.cnds.IsTagPlaying,
 	cr.plugins_.Browser.prototype.cnds.IsDownloadingUpdate,
 	cr.behaviors.Fade.prototype.acts.RestartFade,
+	cr.system_object.prototype.cnds.OnLoadFinished,
 	cr.system_object.prototype.acts.GoToLayout
 ];};
 
